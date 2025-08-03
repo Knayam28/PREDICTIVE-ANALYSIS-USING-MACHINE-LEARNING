@@ -85,3 +85,5 @@ Conclusion:
 This task exemplifies practical machine learning for tabular, regression-driven prediction in a real-world context, demonstrating not only model implementation but also highlighting the importance of careful data handling and rigorous evaluation.
 
 #OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e6413f34-c077-43c3-8d45-0ad6a728d292" />
